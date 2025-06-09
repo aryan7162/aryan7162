@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aryan7162 Aryan Singh
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning machine Learning NLP
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning full stack devlopment
+- 💞️ I’m looking to collaborate on django
 - 📫 How to reach me aryansingh.masum014@gmail.com
 
 <!---
